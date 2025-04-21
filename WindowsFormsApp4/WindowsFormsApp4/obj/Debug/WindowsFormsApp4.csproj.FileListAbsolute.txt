@@ -1,0 +1,65 @@
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormLogin.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Create.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_QRcode.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_RepairList.resources
+C:\Users\iSpan\Desktop\Macy\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Service.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Create.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormLogin.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_QRcode.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Service.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Create.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormLogin.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_QRcode.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Service.resources
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\00 主檔案From\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\C#_home\個人專題\練習From\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Record.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Create.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormLogin.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_QRcode.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Record.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_RepairList.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UserControl_Service.resources
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\user\Desktop\C#_home\個人專題\練習From - 複製 (5)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
